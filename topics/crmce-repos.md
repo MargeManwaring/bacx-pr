@@ -8,7 +8,7 @@ akey: avalue
 
 | Description                                        | URL                                                                  | Test |
 |----------------------------------------------------|----------------------------------------------------------------------|------|
-| Common Data Model - Private                        | https://github.com/MicrosoftDocs/common-data-model                   | above the rule<br>__________________<br> below the rule |
+| Common Data Model - Private                        | The rule to the right is just a bunch of underscores. The best we can do in a table. | above the rule<br>__________________<br> below the rule |
 | Customer Engagement - Private                      | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr |first line<br>second line |
 | Customer Engagement - Public                       | https://github.com/MicrosoftDocs/dynamics-365-customer-engagement    |first line<br>second line<br>third line |
 | Flow - Private                                     | https://github.com/MicrosoftDocs/flow-docs-pr                        | |
