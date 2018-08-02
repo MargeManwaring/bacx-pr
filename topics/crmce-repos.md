@@ -35,5 +35,18 @@ akey: avalue
   <tr>
     <td>below the rule</td>
   </tr>
+  <tr>
+    <td rowspan=2>Customer Engagement - Private</td>
+    <td rowspan=2>https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr</td>
+    <td>above the rule</td>
+  </tr>
+  <tr>
+    <td>below the rule</td>
+  </tr>
+  <tr>
+    <td>Customer Engagement - Public  </td>
+    <td>https://github.com/MicrosoftDocs/dynamics-365-customer-engagement-pr</td>
+    <td>only one item</td>
+  </tr>
   </table>
   
