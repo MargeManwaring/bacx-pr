@@ -1,6 +1,7 @@
 Use this checklist to make all the necessary consistency changes to your Release Notes topics when you revise them or review a PR from a PM:
 - **Metadata:**
-  - Update the ms.date value.
+  - Update the ms.date value. 
+    For topics held back for Ignite, use "09/24/2018".
   - Make sure the right authors are listed for author, manager, and ms.author. Not just a default to Margo and Ann.
 - **Change history:**
   - If a PM or you made a change, make sure it's represented in the Change history topic.
